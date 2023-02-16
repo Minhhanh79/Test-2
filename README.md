@@ -1,2 +1,2 @@
 # Test-2
-Arduino BLE
+Day la project cuoi ki cua Minh Hanh
